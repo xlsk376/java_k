@@ -28,6 +28,7 @@ class MemoryGame{
 		for(int i = 0; i < SIZE; i++) {
 			data[i] = (i + 2) / 2;
 //			System.out.println(data[i]);
+			//몫 같은 값 두개씩
 		}
 	}
 	void nodeInit() {
